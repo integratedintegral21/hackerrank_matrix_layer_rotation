@@ -1,0 +1,8 @@
+./git
+.vs/
+Debug/
+MatrixRotation/Debug/
+MatrixRotation/MatrixRotation.vcxproj
+MatrixRotation/MatrixRotation.vcxproj.filters
+MatrixRotation/MatrixRotation.vcxproj.user
+MatrixRotation.sln
